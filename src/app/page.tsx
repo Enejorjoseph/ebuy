@@ -29,7 +29,7 @@ export default async function Home() {
               </span>
               <h1 className="mt-4 text-3xl font-extrabold leading-tight tracking-tight sm:text-4xl lg:text-5xl">
                 Find what you need.
-                <span className="text-indigo-600"> Sell what you don&apos;t.</span>
+                <span className="text-indigo-600"> Shop great deals.</span>
               </h1>
               <p className="mx-auto mt-4 max-w-2xl text-base text-zinc-600 sm:text-lg dark:text-zinc-400">
                 A simple marketplace to browse great listings at great prices.
